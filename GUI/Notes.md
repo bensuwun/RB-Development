@@ -20,4 +20,4 @@ Some important things to check when wanting to scale UI elements inside a Scroll
 
 ## References
 - [AutoScale Canvas Size for UIGridLayout (source of quote)](https://devforum.roblox.com/t/how-do-i-auto-scale-canvas-size-for-a-uigridlayout/1465332)
-= [UI Design Objects](https://devforum.roblox.com/t/ui-design-objects-tips/613948)
+- [UI Design Objects](https://devforum.roblox.com/t/ui-design-objects-tips/613948)
