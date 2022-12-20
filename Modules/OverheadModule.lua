@@ -35,7 +35,7 @@ function overheadModule.createOverheadGui(player)
 	
 	-- Set text label properties
 	playerLabel.Size = LabelProps.PlayerLabelSize
-	playerLabel.Text = "Player Name"
+	playerLabel.Text = player.Name
 	playerLabel.FontFace = Font.fromEnum(Enum.Font.Roboto)
 	playerLabel.FontFace.Bold = true -- doesn't work, sets to regular
 	playerLabel.TextColor3 = LabelProps.PlayerLabelTextColor3
